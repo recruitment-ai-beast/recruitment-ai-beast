@@ -43,7 +43,7 @@ Railway • Streamlit
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/beast-builds-ai)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=x)](your-twitter-url)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=x)](https://x.com/beastbuildsai)
 📧 beast.builds.ai@gmail.com
 
 ---
